@@ -1,0 +1,21 @@
+/*body { 
+	padding-top: 70px; }*/
+.item-logo{
+	margin: 40px;
+}
+.item-link{
+	padding-top: 50px;
+	margin: 20px;
+	color: black;
+}
+
+#descarga{
+	background-color: #FFBF00;
+	height: 500px;
+}
+
+.phone{
+	margin-left: 150px; 
+	margin-top:60px;
+	border: 10px white;
+}
