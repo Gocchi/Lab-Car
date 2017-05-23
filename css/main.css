@@ -1,21 +1,85 @@
 /*body { 
-	padding-top: 70px; }*/
+	background-color: #FFBF00}
+}*/	
+
+.containerForm{
+	background-color: #FFBF00;
+}
+#taxi{
+	background-image: url(../assets/img/taxi.jpg);
+
+}
 .item-logo{
 	margin: 40px;
 }
 .item-link{
-	padding-top: 50px;
+	
 	margin: 20px;
 	color: black;
 }
-
 #descarga{
-	background-color: #FFBF00;
-	height: 500px;
+	background-color:  #FFBF00;
 }
+	
+}
+.item-text{
+	color:white;
+	font-size: 20px;
+	left: 150px;
+}
+
+.containerPhone{
+	background-color: #FFBF00; 
+	margin-top: 33px;
+	margin-bottom: 33px;
+	width: 80%;
+	border: 1px solid white;
+	color: white;
+	font-size: 20px;
+}
+.fotoPhone{
+	left: 60px;
+}
+
 
 .phone{
 	margin-left: 150px; 
 	margin-top:60px;
 	border: 10px white;
+}
+
+#tarifa{
+	background-color: #FFBF00;
+	height: 500px;
+}
+
+footer{
+	background-color: #424242;
+	height: 500px;
+}
+.containerForm{
+	width: 40%;
+}
+.containerTarifa{
+	background-color: #FFBF00;
+	position: relative;
+	text-align: center;
+	margin-top:100px;
+}
+
+.text-white{
+	color:white;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.icon-footer{
+	margin-top: 100px;
+	padding:20px;
+}
+
+.btn-white{
+	color:white;
 }
